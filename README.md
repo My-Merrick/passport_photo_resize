@@ -118,10 +118,10 @@ passport_app.py
 
 ## Screenshots
 
-![App Interface](Screenshots/app_interface.png)
-![Upload Photos](Screenshots/upload_photos.png)
-![Processing](Screenshots/processing.png)
-![Output Folder](Screenshots/output_folder.png)
+![App Interface](passport_project/Screenshots/app_interface.png)
+![Upload Photos](passport_project/Screenshots/upload_photos.png)
+![Processing](passport_project/Screenshots/processing.png)
+![Output Folder](passport_project/Screenshots/output_folder.png)
 
 
 ## Author
